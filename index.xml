@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>pozvoni</repo>
-  <version>v1.0.7</version>
+  <version>v1.0.8</version>
   <next number="1" owner="Fistachka" repo="pozvoni2"/>
   <readme>
     <ru>ba50b351e3ebd7d1cf8f0550faac347fbf6511a5ca380dbaf1ca6df52ffe56b2</ru>
@@ -65,18 +65,18 @@
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
     <bpm>162</bpm>
-    <lowestNote>5</lowestNote>
+    <lowestNote>7</lowestNote>
     <tonalities>10</tonalities>
     <video name="4.mp4" size="846813" type="video/mp4" volume="1">f81e5effdb5fd5dfd598d65f138e943abfbbc9cf2493abff12c9d219bb4a15a7</video>
     <notes>
-      <note number="1" values="18" ticks="55" durationTicks="32" ppq="96" velocity="0.764"/>
-      <note number="2" values="18" ticks="105" durationTicks="33" ppq="96" velocity="0.772"/>
-      <note number="3" values="58" ticks="152" durationTicks="115" ppq="96" velocity="0.827"/>
-      <note number="4" values="48" ticks="294" durationTicks="16" ppq="96" velocity="0.772"/>
-      <note number="5" values="58" ticks="320" durationTicks="24" ppq="96" velocity="0.827"/>
-      <note number="6" values="48" ticks="345" durationTicks="95" ppq="96" velocity="0.827"/>
-      <note number="7" values="48" ticks="576" durationTicks="95" ppq="96" velocity="0.827"/>
-      <note number="8" values="48" ticks="672" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="1" values="7" ticks="281" durationTicks="37" ppq="96" velocity="0.764"/>
+      <note number="2" values="18" ticks="323" durationTicks="32" ppq="96" velocity="0.772"/>
+      <note number="3" values="28" ticks="368" durationTicks="42" ppq="96" velocity="0.827"/>
+      <note number="4" values="7" ticks="417" durationTicks="49" ppq="96" velocity="0.772"/>
+      <note number="5" values="28" ticks="496" durationTicks="39" ppq="96" velocity="0.827"/>
+      <note number="6" values="48" ticks="541" durationTicks="24" ppq="96" velocity="0.827"/>
+      <note number="7" values="68" ticks="588" durationTicks="66" ppq="96" velocity="0.827"/>
+      <note number="8" values="58" ticks="660" durationTicks="108" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="5">
