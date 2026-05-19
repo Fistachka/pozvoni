@@ -3,7 +3,7 @@
 «Позвони мне, позвони!» из к/ф "Карнавал"1981г. 1 часть
 ![2](https://github.com/user-attachments/assets/79497f11-b18e-43b2-8a32-49da98716754)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/OcdP56Bi0Tw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/zbX41X-MqpM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ziyGewlDDz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Позвони мне, позвони!
@@ -26,7 +26,7 @@ stolbitsa.com/fistachka/klen3<br><br>
 "Pozvoni mne, pozvoni!" (Call me, call me) from the film "Carnival" (1981) st verse
 ![2](https://github.com/user-attachments/assets/79497f11-b18e-43b2-8a32-49da98716754)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/rUhugteMQAo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/DgReBFML3bY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KADNdndVna8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Pozvoni mne, pozvoni!
