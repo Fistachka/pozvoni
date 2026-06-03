@@ -4,7 +4,7 @@
 ![2](https://github.com/user-attachments/assets/79497f11-b18e-43b2-8a32-49da98716754)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/7E_LsjRRk_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ziyGewlDDz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U7MfgTKnn5U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Позвони мне, позвони!
 Позвони мне, ради Бога!
@@ -27,7 +27,7 @@ stolbitsa.com/fistachka/klen3<br><br>
 ![2](https://github.com/user-attachments/assets/79497f11-b18e-43b2-8a32-49da98716754)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/WpKEzkYOcZU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KADNdndVna8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G4LWj2m7b6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Pozvoni mne, pozvoni!
 Pozvoni mne, radi Boga!
